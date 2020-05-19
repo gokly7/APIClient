@@ -2,6 +2,7 @@
     "name": "albertohector/api",
     "description": "crear 1000 clientes para pruebas y poder filtrar por nombre y data",
     "type": "project",
+    "license": "mit",
     "require": {
         "ext-pdo_mysql": "^7.2",
         "ext-PDO": "^7.2"
