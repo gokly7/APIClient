@@ -1,5 +1,5 @@
 {
-    "name": "albertohector/API",
+    "name": "albertohector/api",
     "description": "My first packagist package",
     "type": "package",
     "require": {},
