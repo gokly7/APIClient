@@ -1,6 +1,5 @@
 <?php
-//namespace albertohector\apiCliente;
-//include __DIR__ . "/../vendor/autoload.php";
+namespace albertohector\apiCliente;
 include 'DBconn.php';
 
 class Cliente extends DBconn{

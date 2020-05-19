@@ -1,5 +1,6 @@
 <?php
-//namespace albertohector\apiCliente;
+namespace albertohector\apiCliente;
+use PDO;
 include 'Cliente.php';
 include 'datos.php';
 

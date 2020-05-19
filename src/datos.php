@@ -1,6 +1,6 @@
 <?php
-//namespace albertohector\apiCliente;
-//include __DIR__ . "/../vendor/autoload.php";
+namespace albertohector\apiCliente;
+
 class Datos{
     function faker(){
         require_once "vendor/autoload.php";
