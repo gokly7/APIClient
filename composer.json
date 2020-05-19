@@ -5,7 +5,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "albertohector\\apiCliente\\"; "src/"
+            "albertohector\\apiCliente\\": "src/"
         }
     }
 }
