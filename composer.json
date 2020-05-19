@@ -1,0 +1,11 @@
+{
+    "name": "albertohector/API",
+    "description": "My first packagist package",
+    "type": "package",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "albertohector\\apiCliente\\"; "src/"
+        }
+    }
+}
