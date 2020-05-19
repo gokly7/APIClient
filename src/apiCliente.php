@@ -1,5 +1,5 @@
 <?php
-namespace albertohector\apiCliente;
+//namespace albertohector\apiCliente;
 include 'Cliente.php';
 include 'datos.php';
 
@@ -114,7 +114,7 @@ elseif(isset($_GET['date'])) {
 }
 else{ 
 $api = new ApiCliente();
-//$api->getAll();
+$api->getAll();
 }
 
 ?>

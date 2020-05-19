@@ -1,14 +1,10 @@
 {
     "name": "albertohector/api",
-    "description": "My first packagist package",
-    "type": "package",
-    "require": {},
-    "require-dev": {
-        "codecollab/csrf-token": "^2"
+    "description": "crear 1000 clientes para pruebas y poder filtrar por nombre y data",
+    "type": "project",
+    "require": {
+        "ext-pdo_mysql": "^7.2",
+        "ext-PDO": "^7.2"
     },
-    "autoload": {
-        "psr-4": {
-            "albertohector\\apiCliente\\": "src/"
-        }
-    }
+    "minimum-stability": "stable"
 }
