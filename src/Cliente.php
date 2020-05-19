@@ -1,4 +1,5 @@
 <?php
+//namespace albertohector\apiCliente;
 include __DIR__ . "/../vendor/autoload.php";
 include 'DBconn.php';
 
