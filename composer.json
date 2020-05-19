@@ -3,6 +3,9 @@
     "description": "My first packagist package",
     "type": "package",
     "require": {},
+    "require-dev": {
+        "codecollab/csrf-token": "^2"
+    },
     "autoload": {
         "psr-4": {
             "albertohector\\apiCliente\\": "src/"
